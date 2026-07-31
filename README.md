@@ -93,12 +93,14 @@ Chosen because:
 
 ## Dataset
 
-Combined corpus of **138,115 real-world news articles** from:
+Dataset
+
+Combined corpus of 138,115 real-world news articles, all sourced from publicly available datasets and sources:
 
 - BBC News
 - Reuters-21578
 - AG News Corpus
-- Scraped sources:
+- Scraped sources (all public):
   - CNN
   - The Guardian
   - TechCrunch
